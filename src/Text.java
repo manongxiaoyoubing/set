@@ -43,6 +43,7 @@ public class Text {
         SimpleSet setd = new Myset(1);
         setd.add(2);
         setd.add(8);
+        setd.add(14);
 
 
 
